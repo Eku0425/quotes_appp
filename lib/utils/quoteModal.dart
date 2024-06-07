@@ -6,6 +6,7 @@ class  QuoteModel
 
 {
   String? quote;
+  
   String? author;
   List<QuoteModel> quoteModelList = [];
 
